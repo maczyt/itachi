@@ -1,5 +1,5 @@
 {
-  "name": "itachi",
+  "name": "itachi-fp",
   "version": "0.0.1",
   "description": "functional programming library",
   "main": "index.js",
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/maczyt/itachi.git"
   },
   "keywords": [
-    "FP"
+    "FP",
+    "JS"
   ],
   "author": "maczyt",
   "license": "MIT",

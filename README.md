@@ -5,7 +5,7 @@ Functional Programming library
 
 ``` js
 
-import * as _ from 'itachi'
+import * as _ from 'itachi-fp'
 
 const add = _.curry(function (a, b) {
   return a + b
